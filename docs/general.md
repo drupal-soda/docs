@@ -22,7 +22,7 @@ Furthermore, it could be used as a restful server to exchange data between devic
 - Drupal project: [https://drupal.org/project/soda](https://drupal.org/project/soda) (mirrored from Github)
 - Github repo: [https://github.com/drupal-soda](https://github.com/drupal-soda)
 
-### Follow us and news
+## Follow us + news
 You can follow us for any news, updates, howto and tips.
 
 - Twitter: [@sodadrupal](http://twitter.com/sodadrupal)
@@ -57,3 +57,5 @@ Since then we decided to make it a full Drupal distribution and continue it furt
 
 ## Licence
 [GPL - GNU General Public Licence](http://www.gnu.org/licenses/gpl.html)
+
+For examples and other code please refer to each project for the licence.
