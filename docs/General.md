@@ -1,7 +1,6 @@
-## About
-**[SodaDrupal.com](http://sodadrupal.com)**
+## [SodaDrupal.com](http://sodadrupal.com)
 
-### About this project
+## About this project
 Soda is a [Drupal distribution](https://www.drupal.org/project/project_distribution).
 
 Drupal Distributions provide site features and functions for a specific type of site as a single download containing Drupal core, contributed modules, themes, and pre-defined configuration. They make it possible to quickly set up a complex, use-specific site in fewer steps than if installing and configuring elements individually.
