@@ -8,6 +8,7 @@ Drupal Distributions provide site features and functions for a specific type of 
 This project is aimed to collect, manage and distribute (small scale) open data.
 
 ## Purpose and potentional users
+
 SODA could be used by any organization, group of people, company etc that would like to collect, manage and distribute open data.
 
 We are mainly focusing to give (public sector) organizations a simple tool to create and share Open Data. 
@@ -17,17 +18,20 @@ There is no location or other type of restriction. The tool will be generic and 
 Furthermore, it could be used as a restful server to exchange data between devices.
 
 ## Repos and resources
-- Drupal project: https://drupal.org/project/soda (mirrored from Github)
-- Github repo: https://github.com/drupal-soda
+
+- Drupal project: [https://drupal.org/project/soda](https://drupal.org/project/soda) (mirrored from Github)
+- Github repo: [https://github.com/drupal-soda](https://github.com/drupal-soda)
 
 ### Follow us and news
 You can follow us for any news, updates, howto and tips.
+
 - Twitter: [@sodadrupal](http://twitter.com/sodadrupal)
 - Youtube: [Soda Drupal](www.youtube.com/channel/UC0COZ2mjDc0VKm7Xf0VZw3A)
 - Newsletter (via Mailchimp): http://eepurl.com/bwaiwX 
 
 ## Maintainers
 Initial prototype of this project was created by these people.
+
 - [TheodorosPloumis](https://github.com/theodorosploumis)
 - [ModKafess](https://github.com/modkaffes)
 - [Navideck-fotis](https://github.com/Navideck-fotis)
@@ -35,10 +39,12 @@ Initial prototype of this project was created by these people.
 Currenty, this project is maintained by [TheodorosPloumis](https://github.com/theodorosploumis).
 
 ## Media assets
+
 - Logos
 - Screenshots
 
 ## Supporters
+
 - [Municipality Of Thessaloniki](http://www.thessaloniki.gr/)
 - [Open Knowledge Foundation](http://okfn.gr)
 - [Urenio](http://www.urenio.org/)
