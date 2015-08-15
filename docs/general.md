@@ -22,6 +22,16 @@ Furthermore, it could be used as a restful server to exchange data between devic
 - Drupal project: [https://drupal.org/project/soda](https://drupal.org/project/soda) (mirrored from Github)
 - Github repo: [https://github.com/drupal-soda](https://github.com/drupal-soda)
 
+## Documentation
+
+- [soda-docs.readthedocs.org](http://soda-docs.readthedocs.org)
+
+Contribute to documentation here [github.com/drupal-soda/soda-docs](https://github.com/drupal-soda/soda-docs)
+
+## Issues
+
+- TBD
+
 ## Follow us + news
 You can follow us for any news, updates, howto and tips.
 
