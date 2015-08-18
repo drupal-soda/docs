@@ -22,7 +22,7 @@ You can find a complete Drupal installation on github or on Drupal.org.
 
 ### Drush Make
 
-Requires drush version 6.x or 7.x.
+Requires [drush](https://github.com/drush-ops/drush) version 6.x+.
 
 Create a full version with drush make:
 
