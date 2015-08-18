@@ -3,7 +3,7 @@ This is a Drupal installation so you should be able to install it following the 
 
  - [drupal.org/documentation/install](https://www.drupal.org/documentation/install)
 
-### Requirements
+## Requirements
 Currently, there are no special requirements other than the Drupal 7.x core. You can find more on Drupal.org.
 
  - [drupal.org/requirements](https://www.drupal.org/requirements)
@@ -13,14 +13,14 @@ Furthermore we could **suggest** these software versions for a better experience
  - php 5.4+
  - php ```memory_limit = 256M```
 
-### Get the "complete" Drupal installation:
+## Get the "complete" Drupal installation:
 
 You can find a complete Drupal installation on github or on Drupal.org.
 
  - Github (recommended): [github.com/drupal-soda/soda-full](https://github.com/drupal-soda/soda-full)
  - Drupal.org: [drupal.org/project/soda](https://www.drupal.org/project/soda)
 
-### Drush Make
+## Using Drush Make
 
 Requires [drush](https://github.com/drush-ops/drush) version 6.x+.
 
