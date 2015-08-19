@@ -1,4 +1,4 @@
 Soda Project
 
-### [General](general.md)
-### [Installation](install.md)
+### [General](docs/general.md)
+### [Installation](docs/install.md)
