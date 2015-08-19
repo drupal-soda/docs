@@ -27,6 +27,7 @@ Some open source projects related to open data manipulation can be found on this
 - [OpenSemanticFramefork](http://opensemanticframework.org/)
 - [Ushahidi](http://www.ushahidi.com/product/ushahidi/)
 - [DataLift](http://datalift.org/)
+- [citadelonthemove.eu](http://www.citadelonthemove.eu/)
 
 ## Repos and resources
 
