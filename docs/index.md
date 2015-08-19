@@ -1,4 +1,3 @@
-Soda Project
+Complete docs are here: 
 
-### [General](docs/general.md)
-### [Installation](docs/install.md)
+http://soda-docs.readthedocs.org/
