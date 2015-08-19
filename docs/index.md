@@ -1,3 +1,3 @@
 Complete docs are here: 
 
-http://soda-docs.readthedocs.org/
+[soda-docs.readthedocs.org](http://soda-docs.readthedocs.org)
