@@ -17,6 +17,17 @@ There is no location or other type of restriction. The tool will be generic and 
 
 Furthermore, it could be used as a restful server to exchange data between devices.
 
+## Similar tools
+
+Some open source projects related to open data manipulation can be found on this list.
+
+- [Ckan](http://ckan.org/)
+- [TheDataTank](http://thedatatank.com/)
+- [Dkan](http://nucivic.com/dkan/)
+- [OpenSemanticFramefork](http://opensemanticframework.org/)
+- [Ushahidi](http://www.ushahidi.com/product/ushahidi/)
+- [DataLift](http://datalift.org/)
+
 ## Repos and resources
 
 - Drupal project: [https://drupal.org/project/soda](https://drupal.org/project/soda) (mirrored from Github)
@@ -48,6 +59,14 @@ Initial prototype of this project was created by these people.
 
 Currenty, this project is maintained by [TheodorosPloumis](https://github.com/theodorosploumis).
 
+## Contribute
+
+Development is happening on Github only. The main repositories you can contribute to are these:
+
+- Drupal installation profile: [github.com/drupal-soda/soda-profile](https://github.com/drupal-soda/soda-profile)
+- Official docs: [github.com/drupal-soda/soda-docs](https://github.com/drupal-soda/soda-docs)
+- More to come ...
+
 ## Media assets
 
 - Logos
@@ -59,6 +78,16 @@ Currenty, this project is maintained by [TheodorosPloumis](https://github.com/th
 - [Open Knowledge Foundation](http://okfn.gr)
 - [Urenio](http://www.urenio.org/)
 - [GFOSS - ellak](https://ellak.gr/)
+
+## Roadmap
+
+Version **7.x-1.x**
+
+This version is a basic prototype (proof of concept). It is production ready but should be used with caution. No security tests were implemented for version 7.x-1.x.
+
+Version **7.x-2.x**
+
+Plese refer to this issue: [7.x-2.x Roadmap](https://github.com/drupal-soda/soda-profile/issues/7)
 
 ## History
 This project started on a 2 day Hackathon (http://hackathess.eu) on 2014 at Thessaloniki, Greece. 
