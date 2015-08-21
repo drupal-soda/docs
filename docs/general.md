@@ -48,8 +48,8 @@ Contribute to documentation here [github.com/drupal-soda/soda-docs](https://gith
 You can follow us for any news, updates, howto and tips.
 
 - Twitter: [@sodadrupal](http://twitter.com/sodadrupal)
-- Youtube: [Soda Drupal](www.youtube.com/channel/UC0COZ2mjDc0VKm7Xf0VZw3A)
-- Newsletter (via Mailchimp): http://eepurl.com/bwaiwX 
+- Youtube: [Soda Drupal](http://www.youtube.com/channel/UC0COZ2mjDc0VKm7Xf0VZw3A)
+- Newsletter (via Mailchimp): [http://eepurl.com/bwaiwX](http://eepurl.com/bwaiwX)
 
 ## Maintainers
 Initial prototype of this project was created by these people.
