@@ -16,6 +16,8 @@ have been exposed through the REST API and Drupal's interface to public.
 Datasets should have fields and fields keep data. For example, a Dataset with traffic data may have fields such as 
 ID, timestamp of the log, location etc.
 
+- **Dataset item or Data item or simply Item**:
+The individual (unique) piece of data of a Dataset. Many data items create a Dataset.
+
 - **REST API**:
-Please check on [Wikipedia](https://en.wikipedia.org/wiki/Representational_state_transfer). Soda offers an extensible 
-REST API for its Datasets.
+Please check on [Wikipedia](https://en.wikipedia.org/wiki/Representational_state_transfer). Soda offers an extensible REST API for its Datasets.
