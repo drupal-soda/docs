@@ -1,5 +1,7 @@
 ## [SodaDrupal.com](http://sodadrupal.com)
 
+![Soda logo](https://www.drupal.org/files/logo_square.png)
+
 ## About this project
 Soda is a [Drupal distribution](https://www.drupal.org/project/project_distribution).
 
