@@ -27,7 +27,7 @@ Some open source projects related to open data manipulation can be found on this
 - [TheDataTank](http://thedatatank.com/)
 - [Dkan](http://nucivic.com/dkan/)
 - [OpenSemanticFramefork](http://opensemanticframework.org/)
-- [Ushahidi](http://www.ushahidi.com/product/ushahidi/)
+- [Socrata.com](http://www.socrata.com/)
 - [DataLift](http://datalift.org/)
 - [citadelonthemove.eu](http://www.citadelonthemove.eu/)
 - [opendatanode](http://opendatanode.org/) (using [unifiedviews](http://unifiedviews.eu/))
