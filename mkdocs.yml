@@ -1,0 +1,6 @@
+pages:
+#- Home: 'index.md'
+- General Information: 'general.md'
+- Installation: 'install.md'
+- Restful web services: 'restful.md'
+- Terminology: 'terminology.md'
