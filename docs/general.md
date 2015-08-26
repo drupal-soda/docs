@@ -28,6 +28,7 @@ Some open source projects related to open data manipulation can be found on this
 - [Ushahidi](http://www.ushahidi.com/product/ushahidi/)
 - [DataLift](http://datalift.org/)
 - [citadelonthemove.eu](http://www.citadelonthemove.eu/)
+- [opendatanode](http://opendatanode.org/) (using [unifiedviews](http://unifiedviews.eu/))
 
 ## Repos and resources
 
