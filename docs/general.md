@@ -75,6 +75,8 @@ Development is happening on Github only. The main repositories you can contribut
 
 - Logos
 - Screenshots
+- Banner
+- Promo video
 
 ## Supporters
 
