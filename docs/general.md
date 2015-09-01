@@ -69,6 +69,8 @@ Development is happening on Github only. The main repositories you can contribut
 
 - Drupal installation profile: [github.com/drupal-soda/soda-profile](https://github.com/drupal-soda/soda-profile)
 - Official docs: [github.com/drupal-soda/soda-docs](https://github.com/drupal-soda/soda-docs)
+- Show us where are you using Soda (showcases)
+- Custom (drupal) modules for this project
 - More to come ...
 
 ## Media assets
