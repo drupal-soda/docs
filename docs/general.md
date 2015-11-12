@@ -1,4 +1,6 @@
-## [SodaDrupal.com](http://sodadrupal.com)
+## Official url
+
+[SodaDrupal.com](http://sodadrupal.com)
 
 ![Soda logo](https://www.drupal.org/files/project-images/logo_square_0.png)
 
@@ -45,7 +47,7 @@ Contribute to documentation here [github.com/drupal-soda/soda-docs](https://gith
 
 ## Issues
 
-- TBD
+- Issues: https://github.com/drupal-soda/soda-profile/issues
 
 ## Follow us + news
 You can follow us for any news, updates, howto and tips.
@@ -55,13 +57,14 @@ You can follow us for any news, updates, howto and tips.
 - Newsletter (via Mailchimp): [http://eepurl.com/bwaiwX](http://eepurl.com/bwaiwX)
 
 ## Maintainers
+
+Currenty, this project is maintained by [TheodorosPloumis](https://github.com/theodorosploumis).
+
 Initial prototype of this project was created by these people.
 
 - [TheodorosPloumis](https://github.com/theodorosploumis)
 - [ModKafess](https://github.com/modkaffes)
 - [Navideck-fotis](https://github.com/Navideck-fotis)
-
-Currenty, this project is maintained by [TheodorosPloumis](https://github.com/theodorosploumis).
 
 ## Contribute
 
@@ -98,11 +101,13 @@ Version **7.x-2.x**
 Plese refer to this issue: [7.x-2.x Roadmap](https://github.com/drupal-soda/soda-profile/issues/7)
 
 ## History
+
 This project started on a 2 day Hackathon (http://hackathess.eu) on 2014 at Thessaloniki, Greece. 
 It won the first place among 15 other projects.
 Since then we decided to make it a full Drupal distribution and continue it furthermore so we get a complete Drupal solution for small open data.
 
 ## Licence
+
 [GPL - GNU General Public Licence](http://www.gnu.org/licenses/gpl.html)
 
 For examples and other code please refer to each project for the licence.
