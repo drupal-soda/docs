@@ -21,14 +21,17 @@ Using restful module we are able to create our REST API as we like with multiple
 - **Use Drupal best practices** (hooks, cache, template engine, validations etc) to simplyfy things.
 - **Easy to maintain** (restful module is using Ctools plugins as files).
 - **Drupal UI (TODO)**
-- Fast and reliable.
+- Being fast, solid and reliable.
 
 ## Consuming the REST API
 
 With restful module you are able to consume the HTTP REST API using best practices. 
-Please find more at the project doc at https://github.com/RESTful-Drupal/restful/blob/7.x-1.x/docs/api_url.md.
+
+Please find more at the [Restful module docs](https://github.com/RESTful-Drupal/restful/blob/7.x-2.x/docs/api_url.md).
 
 ## Browse the REST API
+
+**TODO**
 
 SODA is exposing the resources using a [Swagger interface](http://swagger.io/). This way you can explore the API 
 directly from the browser.
