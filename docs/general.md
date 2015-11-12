@@ -1,6 +1,4 @@
-## Official url
-
-[SodaDrupal.com](http://sodadrupal.com)
+## Official url: [SodaDrupal.com](http://sodadrupal.com)
 
 ![Soda logo](https://www.drupal.org/files/project-images/logo_square_0.png)
 
@@ -47,7 +45,7 @@ Contribute to documentation here [github.com/drupal-soda/soda-docs](https://gith
 
 ## Issues
 
-- Issues: https://github.com/drupal-soda/soda-profile/issues
+- Issues (for code): [github.com/drupal-soda/soda-profile/issues](https://github.com/drupal-soda/soda-profile/issues)
 
 ## Follow us + news
 You can follow us for any news, updates, howto and tips.
