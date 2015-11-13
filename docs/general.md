@@ -39,7 +39,7 @@ Some open source projects related to open data manipulation can be found on this
 
 ## Documentation
 
-- [soda-docs.readthedocs.org](http://soda-docs.readthedocs.org)
+- [soda.readthedocs.org](http://soda.readthedocs.org)
 
 Contribute to documentation here [github.com/drupal-soda/soda-docs](https://github.com/drupal-soda/soda-docs)
 
