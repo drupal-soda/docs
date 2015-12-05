@@ -90,19 +90,18 @@ Development is happening on Github only. The main repositories you can contribut
 
 ## Roadmap
 
-Version **7.x-1.x**
+- Version **7.x-1.x**
 
 This version is a basic prototype (proof of concept). It is production ready but should be used with caution. No security tests were implemented for version 7.x-1.x.
 
-Version **7.x-2.x**
+- Version **7.x-2.x**
 
 Plese refer to this issue: [7.x-2.x Roadmap](https://github.com/drupal-soda/soda-profile/issues/7)
 
 ## Live Demos
 
-Version **7.x-.x**: [v1.sodadrupal.com](http://v1.sodadrupal.com)
-
-Version **7.x-2.x**: [v2.sodadrupal.com](http://v2.sodadrupal.com)
+- Version **7.x-1.x**: [v1.sodadrupal.com](http://v1.sodadrupal.com)
+- Version **7.x-2.x**: [v2.sodadrupal.com](http://v2.sodadrupal.com)
 
 ## History
 
