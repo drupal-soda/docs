@@ -18,9 +18,11 @@ Using restful module we are able to create our REST API as we like with multiple
 - Allow for several **request parsers** (xml, json etc) which are also extensible.
 - **Templated requests**.
 - **Flexible** as much as possible (eg create the path of the resource as we like).
-- **Use Drupal best practices** (hooks, cache, template engine, validations etc) to simplyfy things.
-- **Easy to maintain** (restful module is using Ctools plugins as files).
-- **Drupal UI (TODO)**
+- **Use Drupal best practices** (hooks, cache, template engine, validations etc) to simplify things.
+- **Easy to maintain** (restful module is using Ctools plugins from plain files).
+- **Drupal UI (TODO)**.
+- Allow for custom permissions and data access restrictions.
+- Provide **cached requests**.
 - Being fast, solid and reliable.
 
 ## Consuming the REST API
