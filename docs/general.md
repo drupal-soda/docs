@@ -1,4 +1,4 @@
-## Official url: [SodaDrupal.com](http://sodadrupal.com)
+## Official url: [www.SodaDrupal.com](http://www.sodadrupal.com)
 
 ![Soda logo](https://www.drupal.org/files/project-images/logo_square_0.png)
 
@@ -97,6 +97,12 @@ This version is a basic prototype (proof of concept). It is production ready but
 Version **7.x-2.x**
 
 Plese refer to this issue: [7.x-2.x Roadmap](https://github.com/drupal-soda/soda-profile/issues/7)
+
+## Live Demos
+
+Version **7.x-.x**: [v1.sodadrupal.com](http://v1.sodadrupal.com)
+
+Version **7.x-2.x**: [v2.sodadrupal.com](http://v2.sodadrupal.com)
 
 ## History
 
