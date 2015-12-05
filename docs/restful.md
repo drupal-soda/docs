@@ -27,7 +27,7 @@ Using restful module we are able to create our REST API as we like with multiple
 
 With restful module you are able to consume the HTTP REST API using best practices. 
 
-Please find more at the [Restful module docs](https://github.com/RESTful-Drupal/restful/blob/7.x-2.x/docs/api_url.md).
+Please find more at the [Restful module wiki](https://github.com/RESTful-Drupal/restful/wiki).
 
 ## Browse the REST API
 
